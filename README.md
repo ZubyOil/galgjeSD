@@ -4,12 +4,12 @@
 
 | |A| |U| | |I|
 
-|E|T|R|V|-|-|-|
+|E|T|R|V|F|-|-|
 
 |1|2|3|4|5|6|7|
 
 ## Score
-![gallow](./images/5.png)
+![gallow](./images/6.png)
 
 ## Beurten
 * E
@@ -21,4 +21,6 @@
 * V
 * F
 
-KYS
+
+EEERRRR FFOOUUUUUUUTTTTT AHAHSHDSAJDHIASHDSA
+yur mom
