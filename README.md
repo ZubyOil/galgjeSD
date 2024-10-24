@@ -4,12 +4,12 @@
 
 | |A| | | | | |
 
-|E|T|-|-|-|-|-|
+|E|T|3|-|-|-|-|
 
 |1|2|3|4|5|6|7|
 
 ## Score
-![gallow](./images/3.png)
+![gallow](./images/4.png)
 
 ## Beurten
 * E
